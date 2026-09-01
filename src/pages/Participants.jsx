@@ -1,6 +1,6 @@
 import { useMemo, useState } from "react";
 import DashboardLayout from "../layouts/DashboardLayout";
-import PageHeader from "../components/common/PageHeader";
+import PageHeader from "../components/Common/PageHeader";
 import {
   FaUsers,
   FaCalendarAlt,

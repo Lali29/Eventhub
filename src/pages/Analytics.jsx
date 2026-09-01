@@ -12,7 +12,7 @@ import {
 } from "react-icons/fa";
 
 import DashboardLayout from "../layouts/DashboardLayout";
-import PageHeader from "../components/common/PageHeader";
+import PageHeader from "../components/Common/PageHeader";
 
 function Analytics() {
   const [period, setPeriod] = useState("This Month");
